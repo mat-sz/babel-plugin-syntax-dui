@@ -131,10 +131,10 @@ ansi-styles@^3.2.1:
   dependencies:
     color-convert "^1.9.0"
 
-babel-parser-dui@^7.8.5:
-  version "7.8.5"
-  resolved "https://registry.yarnpkg.com/babel-parser-dui/-/babel-parser-dui-7.8.5.tgz#23a9e347152c20e976058f6e07b23d2c19cd7a1a"
-  integrity sha512-QqCg/zkxSGehLixGF8IEC1gA1A8aaozUAKS3SRnknXNAJjMZ/gR2ucNa1UZ6E0QatDTwp9hu0pxpjIHamHIaew==
+babel-parser-dui@^7.8.6:
+  version "7.8.6"
+  resolved "https://registry.yarnpkg.com/babel-parser-dui/-/babel-parser-dui-7.8.6.tgz#d18d03514da6cb3110eabcf7fab8d831c65eed8c"
+  integrity sha512-jtJHqg29fyICNokUP1Kst1s5yG02WLRpc8G/oM1P6c2jQ4oGtTchxlz1Gwc5cxPEFD24e6t7ATwgZk8/YZHqpw==
 
 chalk@^2.0.0:
   version "2.4.2"
